@@ -6,7 +6,7 @@ The maven-ios-plugin plugs in to the Maven build lifecycle to automate compilati
 
 This is a plugin provided by let's dev GmbH & Co.KG
 
-http://www.letsdev.de - professional mobile solutions
+https://www.letsdev.de - professional mobile solutions
 
 ## Last-Changes
 
